@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://alphac137.github.io/my-portfolio-website", 
+  "homepage": "https://alphac137.github.io/my-portfolio-website",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
